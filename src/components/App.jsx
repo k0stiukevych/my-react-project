@@ -4,18 +4,6 @@ import Product from "./Product";
 import Mailbox from "./Mailbox";
 import Map from "./BookList";
 
-// export default function App() {
-//   return (
-//     <>
-//       <h1>Products</h1>
-
-//       <Product />
-//       <Product />
-//       <Product />
-//     </>
-//   );
-// }
-
 export default function App() {
   return (
     <>
